@@ -5,4 +5,14 @@ Deze applicatie is ideaal voor zowel warme als koude dagen.
 
 ## Deze applicatie werd gemaakt door Nick Wouters, student IOT aan Thomas More Geel.
 
-[img](/Images/informatie.jpg)
+-[Schermafbeelding informatie-tab](/Images/informatie.jpg)
+-[Schermafbeelding controle-tab](/Images/controle.jpg)
+-[Schermafbeelding configuratie-tab](/Images/configuratie.jpg)
+-[Schermafbeelding weer-tab](/Images/weer.jpg)
+-[Schermafbeelding notificatie](/Images/notificatie.jpg)
+
+### Over Breeze
+
+Breeze staat garant voor het...
+
+## [QR-code](frame.png)

@@ -17,4 +17,4 @@ Breeze staat garant voor het verkoelen van je woning, ook als je er niet bent. D
 Hiernaast kan je een temperatuur instellen waar, wanneer er onder of boven deze grens getreden wordt, het apparaat automatisch geschakeld zal worden. Van het automatisch schakelen ontvang je eveneens een melding.
 Tot slot kan je de weersvoorspellingen voor de komende dagen raadplegen, om zo naar behoren je instellingen aan te passen.
 
-## [QR-code](frame.png)
+## [QR-code](/Images/frame.png)

@@ -5,4 +5,4 @@ Deze applicatie is ideaal voor zowel warme als koude dagen.
 
 ## Deze applicatie werd gemaakt door Nick Wouters, student IOT aan Thomas More Geel.
 
-[img](
+[img](/Images/informatie.jpg)
